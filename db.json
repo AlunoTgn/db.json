@@ -1,0 +1,67 @@
+{
+    "Plataforma": [
+      {
+        "id": 1,
+        "perfil": "representação.",
+        "notificação": "Enviar,notificar,divulgar,transmitir,sinalizar.",
+        "armazenamento": "Coleções.",
+        "plataforma_id": 1
+      },
+      {
+        "id": 2,
+        "perfil": "Contorno.",
+        "notificação": "Enviar,notificar,divulgar,transmitir,sinalizar.",
+        "armazenamento": "imagens.",
+        "plataforma_id": 1
+      },
+      {
+       "id": 3,
+        "perfil": "descrição.",
+        "notificação": "Enviar,notificar,divulgar,transmitir,sinalizar.",
+        "armazenamento": "objetos.",
+        "plataforma_id": 1
+        
+         },
+      {
+        
+        "id": 4,
+        "perfil": "modificar.",
+        "notificação": "Enviar,notificar,divulgar,transmitir,sinalizar.",
+        "armazenamento": "documentos.",
+        "plataforma_id": 1
+      }, 
+      {
+      
+       "id": 5,
+        "perfil": "alterar.",
+        "notificação": "",
+        "armazenamento": "back-end.",
+        "plataforma_id": 2
+        }, 
+      {
+         "id": 6,
+        "perfil": "representação.",
+        "notificação": "",
+        "armazenamento": "memória.",
+        "plataforma_id": 2
+     
+          }
+        ],
+        
+    "plataformas": [
+      {
+        "id": 1,
+        "perfil": "Plataformas"
+      },
+      {
+        "id": 2,
+        "perfil": "Transições"
+      }
+    ]
+  }
+  
+  
+  
+  
+  
+  
